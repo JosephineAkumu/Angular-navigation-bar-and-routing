@@ -1,0 +1,8 @@
+.spacer{
+    display: flex;
+    flex: 1 1 auto;
+    
+}
+.spacer-two{
+margin: 10px;
+}
